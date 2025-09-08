@@ -3,6 +3,9 @@ import requests
 class scrabe():
 
     def __init__(self):
-        pass
+        url = self.url
 
-    
+
+    def scrabe():
+        
+
