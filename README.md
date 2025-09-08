@@ -1,0 +1,1 @@
+# Scraper_data_rights
