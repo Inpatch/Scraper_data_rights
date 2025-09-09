@@ -28,8 +28,8 @@ class api_reddit_data():
 
     def get_data(self):
         query = "Chat Control"
-        #url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}&sort=new&limit=100"
-        url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}"
+        url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}&sort=new&limit=100"
+        #url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}"
         print(url)
         # Fetch posts
         #response = requests.get(url, headers=self.headers)
