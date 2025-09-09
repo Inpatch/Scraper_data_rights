@@ -1,17 +1,65 @@
 import requests
+import json
 
-token = "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzU3NDQ0MzM2LjIzMDA3MSwiaWF0IjoxNzU3MzU3OTM2LjIzMDA3MSwianRpIjoiRnFXRnNuMTZ1VkpvT0dGY2NONnB2c2F3QWFXZnp3IiwiY2lkIjoiV2FrTW4xS2JxN09NUXNOUVZTUjRBdyIsImxpZCI6InQyXzFveHI3cXkzenMiLCJhaWQiOiJ0Ml8xb3hyN3F5M3pzIiwibGNhIjoxNzQ2NzAzNDI4Mzk1LCJzY3AiOiJlSnlLVnNwTVNjMHJ5U3lwVklvRkJBQUFfXzhjTHdSbiIsInJjaWQiOiJkQ3dIWjFnWnUyU0RRZkVLcHZ2anFoMmpGVDV2MUwxdjN3TTBaY1YyaW04IiwiZmxvIjo4fQ.eVSsAwVzX0RXEqajehzo5Dz4Kr38Mc0ySbOw3T49lI4NaK0OkYQMHXNb5M4Uz85s9tFf7rEvufs4wkfm_F6QXRp0KdSNvC75C-OENczyEF9NcOANI71Qy0hRoiY7GYiOs-VvnsgfONChV8X5TzLakBSlAcgKX0lNL29DiXO-0Rx50f62zgoDaUHo45-Q4xc5-zdOes9RxohQd742dcJnJ7j6T0l9D0Ldlu7xhazCgGEehZuYNMw0AsXEBGLwl_NmEhpjsNH0iQfGwyiD0zTz3bxovuIbVVBnO5TSJbnadJRPHBZRYTar7X2TfdhBgrExuYDdBbxy4QSSFKCUbM3Tdg"  # Replace with your token
-headers = {
-    "Authorization": f"bearer {token}",
-    "User-Agent": "script:my_bot:v1.0 (by /u/Successful_Cable_545)"
-}
 
-subreddit = "denmark"
-response = requests.get(f"https://oauth.reddit.com/r/{subreddit}/hot?limit=5", headers=headers)
 
-if response.status_code == 200:
-    posts = response.json()["data"]["children"]
-    for post in posts:
-        print(post["data"]["title"])
-else:
-    print("Error:", response.status_code, response.json())
+class api_reddit_data():
+    def __init__(self,subreddit):
+        self.subreddit = subreddit
+        self.filename = "authentication.json"
+        self.token = self.get_token()
+        self.user_agent = "Chat_control/1.0 by Successful_Cable_545"
+
+
+        self.headers = {
+        "Authorization": f"bearer {self.token}",
+        "User-Agent": self.user_agent,
+        }
+
+    def get_token(self):
+        with open(self.filename, "r") as file:
+            data = json.load(file)
+            token = data["token"]
+            return token
+        
+    def test(self):
+        response = requests.get("https://oauth.reddit.com/api/v1/me", headers=self.headers)
+        return response.text
+
+    def get_data(self):
+        query = "Chat Control"
+        #url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}&sort=new&limit=100"
+        url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}"
+        print(url)
+        # Fetch posts
+        #response = requests.get(url, headers=self.headers)
+        #print(response.status_code)
+        #print(response.text)
+        
+        
+        #posts = response.json()["data"]["children"]
+
+        # Iterate through posts and fetch comments
+"""         for post in posts:
+            post_data = post["data"]
+            print(f"Post Title: {post_data['title']}")
+            print(f"Post URL: https://reddit.com{post_data['permalink']}\n")
+
+            # Fetch comments for the post
+            comments_url = f"https://oauth.reddit.com{post_data['permalink']}.json"
+            comments_response = requests.get(comments_url, headers=self.headers)
+            comments = comments_response.json()[1]["data"]["children"]
+
+            # Print comments
+            for comment in comments:
+                if not comment["data"]["author"]:  # Skip removed comments
+                    continue
+                print(f"Comment by {comment['data']['author']}: {comment['data']['body']}\n")
+            print("---") """
+
+
+if __name__ == "__main__":
+    x = api_reddit_data("all")
+    x.get_data()
+
+
