@@ -7,20 +7,22 @@ class api_reddit_data():
     def __init__(self,subreddit):
         self.subreddit = subreddit
         self.filename = "authentication.json"
-        self.token = self.get_token()
-        self.user_agent = "Chat_control/1.0 by Successful_Cable_545"
+        # Check if this works
+        self.authentication_data = self.authentication()
+        self.token = self.authentication_data["token"]
+        self.user_agent = self.authentication_data["user_agent"]
 
 
         self.headers = {
         "Authorization": f"bearer {self.token}",
         "User-Agent": self.user_agent,
         }
-
-    def get_token(self):
+    
+    def authentication(self):
         with open(self.filename, "r") as file:
             data = json.load(file)
-            token = data["token"]
-            return token
+            return data
+
         
     def test(self):
         response = requests.get("https://oauth.reddit.com/api/v1/me", headers=self.headers)

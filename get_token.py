@@ -8,10 +8,16 @@ import os
 class token():
     def __init__(self):
         self.filename = "authentication.json"
-        self.client_id = "WakMn1Kbq7OMQsNQVSR4Aw"
-        self.client_secret = "aiUHlNuxLpfu5zj7oveGxpUVvU0w8w"
-        self.redirect_uri = "http://localhost:8080"
-        self.user_agent = "Chat_control/1.0 by Successful_Cable_545"
+        self.authentication_data = self.authentication()
+        self.client_id = self.authentication_data["client_id"]
+        self.client_secret = self.authentication_data["client_secret"]
+        self.redirect_url = self.authentication_data["redirect_url"]
+        self.user_agent = self.authentication_data["user_agent"]
+
+    def authentication(self):
+        with open(self.filename, "r") as file:
+            data = json.load(file)
+            return data
 
 
     def get_token(self):
