@@ -2,4 +2,4 @@ enviroment/
 .env/
 
 
-authentication.json
+/authentication.json
