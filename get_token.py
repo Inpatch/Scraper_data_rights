@@ -59,7 +59,13 @@ class token():
         if response.status_code == 200:
             print("Your Reddit username:", response.json()["name"])
             print("Succesfull got a token")
-            data = {"token":token}
+            data = {"token":token,
+                "client_id": self.client_id,
+                "client_secret": self.client_secret,
+                "redirect_url": self.redirect_url,
+                "user_agent" : self.user_agent}
+
+
 
             with open(self.filename, "w") as file:
                 json.dump(data, file, indent=4)
