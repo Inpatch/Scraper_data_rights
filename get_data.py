@@ -7,16 +7,15 @@ class api_reddit_data():
     def __init__(self,subreddit):
         self.subreddit = subreddit
         self.filename = "authentication.json"
-        # Check if this works
         self.authentication_data = self.authentication()
-        self.token = self.authentication_data["token"]
+        self.client_id = self.authentication_data["client_id"]
+        self.client_secret = self.authentication_data["client_secret"]
+        self.redirect_url = self.authentication_data["redirect_url"]
         self.user_agent = self.authentication_data["user_agent"]
-
-
-        self.headers = {
-        "Authorization": f"bearer {self.token}",
-        "User-Agent": self.user_agent,
-        }
+        self.password = self.authentication_data["password"]
+        self.user_name = self.authentication_data["user_name"]
+        self.token = self.authentication_data["token"]
+        self.header = {"Authorization": "bearer "+self.token, "User-Agent": self.user_agent}
     
     def authentication(self):
         with open(self.filename, "r") as file:

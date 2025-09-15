@@ -1,8 +1,7 @@
 import requests
 import webbrowser
 import json
-import os
-
+import requests.auth
 
 
 class token():
@@ -13,6 +12,8 @@ class token():
         self.client_secret = self.authentication_data["client_secret"]
         self.redirect_url = self.authentication_data["redirect_url"]
         self.user_agent = self.authentication_data["user_agent"]
+        self.password = self.authentication_data["password"]
+        self.user_name = self.authentication_data["user_name"]
 
     def authentication(self):
         with open(self.filename, "r") as file:
@@ -23,33 +24,19 @@ class token():
     def get_token(self):
 
         # Step 1: Get user authorization
-        auth_url = f"https://www.reddit.com/api/v1/authorize?client_id={self.client_id}&response_type=code&state=random_string&redirect_uri={self.redirect_uri}&duration=permanent&scope=identity"
-        webbrowser.open(auth_url)
-
-        # After authorizing, Reddit will redirect you to http://localhost:8080/?state=random_string&code=AUTH_CODE#_
-        # Copy the AUTH_CODE from the URL bar and paste it below:
-        code = input("Paste the 'code' from the URL here: ")
-
-        # Step 2: Exchange the code for an access token
-        auth = requests.auth.HTTPBasicAuth(self.client_id, self.client_secret)
-        data = {
-        "grant_type": "authorization_code",
-        "code": code,
-        "redirect_uri": self.redirect_uri,
-        }
         headers = {"User-Agent": self.user_agent}
+        post_data = {"grant_type": "password", "username": self.user_name, "password": self.password }
 
-        response = requests.post(
-        "https://www.reddit.com/api/v1/access_token",
-        auth=auth,
-        data=data,
-        headers=headers,
-        )
+        client_auth = requests.auth.HTTPBasicAuth(self.client_id, self.client_secret)
+        response = requests.post("https://www.reddit.com/api/v1/access_token", auth=client_auth, data=post_data, headers=headers)
+        print(response.status_code)
 
-        token = response.json()["access_token"]
-        print("Access token:", token)
-
-        # Step 3: Use the token to fetch your user info
+        if response.status_code == 400:
+            print("Error ",response.status_code)
+            print(response.json)
+            return response.status_code
+        response = response.json()
+        token = response["access_token"]
         headers = {
         "Authorization": f"bearer {token}",
         "User-Agent": self.user_agent,
@@ -63,7 +50,9 @@ class token():
                 "client_id": self.client_id,
                 "client_secret": self.client_secret,
                 "redirect_url": self.redirect_url,
-                "user_agent" : self.user_agent}
+                "user_agent" : self.user_agent,
+                "password": self.password,
+                "user_name": self.user_name}
 
 
 
@@ -71,6 +60,9 @@ class token():
                 json.dump(data, file, indent=4)
             print(f"File '{self.filename}' has been created/overwritten with the following content:")
             print(json.dumps(data, indent=4))
+
+        if response.status_code == 400:
+            print("Error ", response.status_code)
 
 if __name__ == "__main__":
     x = token()
