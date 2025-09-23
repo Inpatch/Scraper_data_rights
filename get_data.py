@@ -1,5 +1,7 @@
 import requests
 import json
+from datetime import datetime
+import os
 
 
 
@@ -24,22 +26,32 @@ class api_reddit_data():
 
         
     def test(self):
-        response = requests.get("https://oauth.reddit.com/api/v1/me", headers=self.headers)
+        response = requests.get("https://oauth.reddit.com/api/v1/me", headers=self.header)
         return response.text
 
     def get_data(self):
-        query = "Chat Control"
-        url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}&sort=new&limit=100"
-        #url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json?q={query}"
-        print(url)
-        # Fetch posts
-        #response = requests.get(url, headers=self.headers)
-        #print(response.status_code)
-        #print(response.text)
-        
-        
-        #posts = response.json()["data"]["children"]
 
+        params = {
+            'q': 'chat control',
+            'sort': 'new',
+            'limit': 100,
+            'restrict_sr': 1,  # <-- This restricts search to the subreddit
+            't': 'all' } # Optional: time filter
+
+        url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json"
+        # Fetch posts
+        response = requests.get(url, headers=self.header, params= params)
+        print(response.status_code)
+        
+
+        file_name = f"{params["q"]}_{datetime.now().timestamp()}.json"
+        # "data" is the folder name
+        file_path = os.path.join("data", file_name)
+        with open(file_path, "w") as file:
+            json.dump(response.json(), file, indent=4)
+        
+        
+        posts = response.json()["data"]["children"]
         # Iterate through posts and fetch comments
 """         for post in posts:
             post_data = post["data"]
@@ -60,7 +72,7 @@ class api_reddit_data():
 
 
 if __name__ == "__main__":
-    x = api_reddit_data("all")
+    x = api_reddit_data("denmark")
     x.get_data()
 
 
