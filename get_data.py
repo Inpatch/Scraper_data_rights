@@ -50,10 +50,10 @@ class api_reddit_data():
         with open(file_path, "w") as file:
             json.dump(response.json(), file, indent=4)
         
-        
-        posts = response.json()["data"]["children"]
+
+    def get_comment(self, posts):
         # Iterate through posts and fetch comments
-"""         for post in posts:
+        for post in posts:
             post_data = post["data"]
             print(f"Post Title: {post_data['title']}")
             print(f"Post URL: https://reddit.com{post_data['permalink']}\n")
@@ -68,7 +68,7 @@ class api_reddit_data():
                 if not comment["data"]["author"]:  # Skip removed comments
                     continue
                 print(f"Comment by {comment['data']['author']}: {comment['data']['body']}\n")
-            print("---") """
+            print("---")
 
 
 if __name__ == "__main__":
