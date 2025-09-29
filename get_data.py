@@ -19,24 +19,28 @@ class api_reddit_data():
         self.token = self.authentication_data["token"]
         self.header = {"Authorization": "bearer "+self.token, "User-Agent": self.user_agent}
     
+
     def authentication(self):
         with open(self.filename, "r") as file:
             data = json.load(file)
             return data
-
         
+
+        # This is to test if the connection is valid
     def test(self):
         response = requests.get("https://oauth.reddit.com/api/v1/me", headers=self.header)
         return response.text
 
-    def get_data(self):
+
+    # This get data based on a parameter
+    def get_data(self, query:str, sort:str, time:str):
 
         params = {
-            'q': 'chat control',
-            'sort': 'new',
+            'q': {query},
+            'sort': {sort},
             'limit': 100,
             'restrict_sr': 1,  # <-- This restricts search to the subreddit
-            't': 'all' } # Optional: time filter
+            't': {time} } # Optional: time filter
 
         url = f"https://oauth.reddit.com/r/{self.subreddit}/search.json"
         # Fetch posts
