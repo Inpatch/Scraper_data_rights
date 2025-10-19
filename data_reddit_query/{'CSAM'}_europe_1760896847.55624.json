@@ -1,0 +1,334 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 2,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "europe",
+                    "selftext": "",
+                    "author_fullname": "t2_2v04dtse",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "EU Revives Chat Control: Encrypted Message Scanning for CSAM Sparks Privacy Backlash",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "News"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/europe",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1mfrmyb",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.98,
+                    "author_flair_background_color": null,
+                    "ups": 1057,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "News",
+                    "can_mod_post": false,
+                    "score": 1057,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?width=140&amp;height=140&amp;crop=140:140,smart&amp;auto=webp&amp;s=0fe287111ec3daaac01b427334334e78cced10bb",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1754144244.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "webpronews.com",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.webpronews.com/eu-revives-chat-control-encrypted-message-scanning-for-csam-sparks-privacy-backlash/",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?auto=webp&amp;s=217ea6a23f14fd2b49b0d67afaa1fbab8301ad0f",
+                                    "width": 720,
+                                    "height": 960
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=05c88bbe71d16f42c9289091d5eeff0647f411f9",
+                                        "width": 108,
+                                        "height": 144
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d6d0c0aca0a00d884cc78aa4aef085d1f9e12c1e",
+                                        "width": 216,
+                                        "height": 288
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0b0751da1d1f7014c70ef15fe308e395b82a84c4",
+                                        "width": 320,
+                                        "height": 426
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c10b3bd0e6720ed11e3e99900f6008e407e3bb56",
+                                        "width": 640,
+                                        "height": 853
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "F8HEEpdMDp3fT3SO9Q65zrdde2zUM2qvgncRkDI7KIA"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "ea71bf12-9723-11e8-a4f4-0e73e87cb97a",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qh4j",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#005ba1",
+                    "id": "1mfrmyb",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Anoth3rDude",
+                    "discussion_type": null,
+                    "num_comments": 120,
+                    "send_replies": false,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/europe/comments/1mfrmyb/eu_revives_chat_control_encrypted_message/",
+                    "stickied": false,
+                    "url": "https://www.webpronews.com/eu-revives-chat-control-encrypted-message-scanning-for-csam-sparks-privacy-backlash/",
+                    "subreddit_subscribers": 11431303,
+                    "created_utc": 1754144244.0,
+                    "num_crossposts": 2,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "europe",
+                    "selftext": "",
+                    "author_fullname": "t2_glc7r",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Moritz K\u00f6rner (German, FDP) replied to my e-mail",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "News"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/europe",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 56,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1n3lwxc",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.94,
+                    "author_flair_background_color": null,
+                    "ups": 248,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "12ec83aa-2f83-11e7-8c89-0e1ba7697502",
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "News",
+                    "can_mod_post": false,
+                    "score": 248,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/FA9TAAqksPmMz5lyFPtaaESPXAVRA3I14ueNyX2-axw.jpg",
+                    "edited": false,
+                    "author_flair_css_class": "DE-SH",
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Schleswig-Holstein, Germany, EU"
+                        }
+                    ],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1756508314.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/sg0ijcvlg1mf1.png",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?auto=webp&amp;s=76415df2840f4b98faa0ad8f737781607cebe353",
+                                    "width": 1870,
+                                    "height": 750
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d9d04837146c677d36ecd2e01da532077f58c65c",
+                                        "width": 108,
+                                        "height": 43
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3f6802329b73ae25a39e7d2ededf4abfc19f2524",
+                                        "width": 216,
+                                        "height": 86
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b3b509578bc92716fb604ebe208e60da7c35d6d5",
+                                        "width": 320,
+                                        "height": 128
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e532c3a08278653bca90d37ddff40e5935c39e5e",
+                                        "width": 640,
+                                        "height": 256
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d819a1b079e23ad6a555b9c2a5e445e1bc7efd66",
+                                        "width": 960,
+                                        "height": 385
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/sg0ijcvlg1mf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f97a0eec277973441b80391f306c35514a3fdee7",
+                                        "width": 1080,
+                                        "height": 433
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "GkkRDoVQaBbUEywy-hrBJL9IxUdnagi53gmBEtjanjs"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "ea71bf12-9723-11e8-a4f4-0e73e87cb97a",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "Schleswig-Holstein, Germany, EU",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qh4j",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#005ba1",
+                    "id": "1n3lwxc",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "chrischi3",
+                    "discussion_type": null,
+                    "num_comments": 48,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/europe/comments/1n3lwxc/moritz_k\u00f6rner_german_fdp_replied_to_my_email/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/sg0ijcvlg1mf1.png",
+                    "subreddit_subscribers": 11431303,
+                    "created_utc": 1756508314.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

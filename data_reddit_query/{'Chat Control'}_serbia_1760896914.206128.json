@@ -1,0 +1,347 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 2,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "serbia",
+                    "selftext": "TLDR: Da, iskoristili su jebeni LRAD!",
+                    "author_fullname": "t2_ar27b6bs",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "is_gallery": true,
+                    "title": "Ako nekog zanima kakva je to buka rasterala proteste:",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Fotografija (Photo)"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/serbia",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "post-flair-photo",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "rktbemelkxoe1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9b190a36767da848ee28234e9ed852a9505e3667"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d1ab9baf8dc0fcab2cbc915c3e3ffc1f0531233c"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b6a19d8c5bd2ce21d396497b2d2df6048525ed3f"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f803ba2c8b34791ff7b82adabd2926225100e664"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=57d6d0ae866dd790d34be64bfce16691b3382f27"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=63a9c5ab09abc48eb5ceedf085dcfb613244d25a"
+                                }
+                            ],
+                            "s": {
+                                "y": 2928,
+                                "x": 1440,
+                                "u": "https://preview.redd.it/rktbemelkxoe1.jpg?width=1440&amp;format=pjpg&amp;auto=webp&amp;s=2a339cadfd4df8914f212f53702589e44549ec27"
+                            },
+                            "id": "rktbemelkxoe1"
+                        },
+                        "kujcpnalkxoe1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ead9c8a20d66900ea0a08f163e415c03d26866d0"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=64041e1ea13153b88b1fc15b4862540ee931f824"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=08af9f8fdea31306ae3bcc4656c820495b4eab4b"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e7eac18a08d7be29e4e1954349aa8132968982e"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1ecea0f11c132528020d6a63534df96474a6b2b9"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3cb399d595b5e59f2e08eff259ade1bd2136a6ac"
+                                }
+                            ],
+                            "s": {
+                                "y": 2928,
+                                "x": 1440,
+                                "u": "https://preview.redd.it/kujcpnalkxoe1.jpg?width=1440&amp;format=pjpg&amp;auto=webp&amp;s=dfbf2b727f5bf8236f43e2f800bba9f5fee01a2d"
+                            },
+                            "id": "kujcpnalkxoe1"
+                        }
+                    },
+                    "name": "t3_1jc6zmz",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.92,
+                    "author_flair_background_color": null,
+                    "ups": 95,
+                    "domain": "reddit.com",
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "gallery_data": {
+                        "items": [
+                            {
+                                "caption": "",
+                                "media_id": "kujcpnalkxoe1",
+                                "id": 623710446
+                            },
+                            {
+                                "caption": "",
+                                "media_id": "rktbemelkxoe1",
+                                "id": 623710447
+                            }
+                        ]
+                    },
+                    "link_flair_text": "Fotografija (Photo)",
+                    "can_mod_post": false,
+                    "score": 95,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/uQwNTwOKDBsq8Unxtb4u9Xb8qeFWy3Gy7_uHN8HtbPA.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1742078097.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "total_awards_received": 0,
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;TLDR: Da, iskoristili su jebeni LRAD!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.reddit.com/gallery/1jc6zmz",
+                    "view_count": null,
+                    "archived": true,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "c52a04e4-fb08-11e5-b70a-0e1c2194fd63",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2ql0k",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": null,
+                    "id": "1jc6zmz",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Flimsy-Balance-9393",
+                    "discussion_type": null,
+                    "num_comments": 1,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/serbia/comments/1jc6zmz/ako_nekog_zanima_kakva_je_to_buka_rasterala/",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/gallery/1jc6zmz",
+                    "subreddit_subscribers": 449454,
+                    "created_utc": 1742078097.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "serbia",
+                    "selftext": "Prvo bih da razjasnim terminologiju. **LRAD** je proizvod kompanije Genasys. Zvani\u010dan naziv ovog ure\u0111aja je **Acoustic Hailing Device** (AHD). [https://jifco.defense.gov/Current-Intermediate-Force-Capabilities/Acoustic-Hailing-Devices/](https://jifco.defense.gov/Current-Intermediate-Force-Capabilities/Acoustic-Hailing-Devices/)\n\nKako zvu\u010di AHD: [https://www.youtube.com/results?search\\_query=Acoustic+hailing+device](https://www.youtube.com/results?search_query=Acoustic+hailing+device) (otvorite koji god video)\n\nNa snimcima sa protesta nisam uspeo da \u010dujem ni jedan verodostojan prikaz zvuka koji mo\u017ee da se \u010duje na raznim snimcima sa YouTube-a. A za\u0161to?\n\nProse\u010dan smartphone mobilni telefon u sebi sadr\u017ei **MEMS** mikrofon. Ve\u0107ina telefona poseduje osnovne verzije MEMS mikrofona koje imaju frekvenciju izme\u0111u 100 Hz i 10.000 Hz (10 kHz). MEMS mikrofoni mogu verodostojno da prika\u017eu zvuk koji ne prelazi 120 dB SPL (Sound Pressure Level). Mikrofoni u mobilnim telefonima su *omnidirectional* \u0161to zna\u010di da prikupljaju zvuk u luku od 360 stepeni. Tako\u0111e je prisutna tehnologija za Automatic Gain Control i Noise Suppression tehnologija kako bi se moglo razgovarati u bu\u010dnijim sredinama. [https://www.st.com/en/mems-and-sensors/mems-microphones.html](https://www.st.com/en/mems-and-sensors/mems-microphones.html)\n\nAHD ure\u0111aji uglavnom projektuju usmeren zvuk koji je sadr\u017ean u luku do 60 stepeni. Postoje i omnidirectional AHD modeli ali se uglavnom ne koriste u svrhe kontrole mase. Zvuk koji AHD proizvodi je glasno\u0107e izme\u0111u 120 dB SPL i 160 dB SPL i frekvencije od 1000 Hz do 5000 Hz. [https://science.howstuffworks.com/lrad.htm](https://science.howstuffworks.com/lrad.htm)\n\nDolazimo do toga de se u masi ljudi koja se nalazilala ju\u010de u centru Beograda dogodio stampedo pod jo\u0161 uvek nerazja\u0161njenim okolnostima. Na snimcima koji su podeljeni sa tog doga\u0111aja, AHD se ne \u010duje jasno zato \u0161to:\n\n* Mikrofoni na telefonima prikupljjau zvuk svega oko njih. Ti\u0161ina pa odjednom pi\u0161taljke, guranje, galama... \n* Iako telefoni mogu da zabele\u017ee frekvienciju koji proizvodi AHD, glasno\u0107u zvuka ne mogu. Preko 120 dB SPL dolazi do distorzije i prekida zvuka\n* Noise Cancelation i Gain Control \u0107e automatski da smanje glasno\u0107u zvuka koji proizvodi AHD\n\nIzvor: [https://www.analog.com/en/resources/analog-dialogue/articles/understanding-microphone-sensitivity.html](https://www.analog.com/en/resources/analog-dialogue/articles/understanding-microphone-sensitivity.html)\n\n\\+ konverzacija sa ChatGPT obavljena nakon pregleda ostalih navedenih izvora: [https://chatgpt.com/share/67d6e95d-3cc0-8012-ae82-506d2b96725d](https://chatgpt.com/share/67d6e95d-3cc0-8012-ae82-506d2b96725d)\n\nDa li je Acoustic Hailing Device bio upotrebljen ja ju\u010dera\u0161njem protestu u Beogradu? **Ne znam**. **Ne zna velika ve\u0107ina nas**. Izjave nekih ljudi se poklapaju sa pretpostavkom da se zvu\u010dni top upotrebio ali u trenucima masovne panike ni\u0161ta nije 100% sigurno.  \nOvaj post slu\u017ei tome da objasni za\u0161to prose\u010dan telefon ne mo\u017ee autenti\u010dno da zabele\u017ei zvuk koji proizvodi zvu\u010dni top i da se donekle nadove\u017ee na ovaj post: [https://www.reddit.com/r/serbia/comments/1jcklsb/zvucni\\_top\\_tehni%C4%8Dka\\_diskusija/](https://www.reddit.com/r/serbia/comments/1jcklsb/zvucni_top_tehni%C4%8Dka_diskusija/)  \nNeki ljudi spekuli\u0161u da je mo\u017eda upotrebljen Active Denial System, u su\u0161tini toplotni laser: [https://www.youtube.com/watch?v=kzG4oEutPbA](https://www.youtube.com/watch?v=kzG4oEutPbA)  \nZa tu tvrdnju nisam prona\u0161ao iskaze prisutnih na protestu.  \nU ovakvoj masi ljudi je dovoljno da se desi jedan mali incident (neko vikne ''bomba'' i baci petardu) kako bi se dogodio stampedo. Jedan primer toga: [https://www.youtube.com/watch?v=B4n7wo8rvTM](https://www.youtube.com/watch?v=B4n7wo8rvTM)\n\nOrganizacija studenata uz podr\u0161ku bajkera i veterana 63. padobranske brigade je spre\u010dila da se ju\u010de u Beogradu dogodi tragedija i ovime su mnoge zadu\u017eili i dali primer ne samo Srbiji ve\u0107 i celom svetu.  \nZbog posla nisam bio prisutan na protestu ali sam od 18h do 22h pratio prenos u\u017eivo sa YouTube kanala Bez Cenzure a pre posla sam dovezao par prijatelja do Novog Beograda.  \nZa one koji misle da je protest ''propao'' mogu samo da ka\u017eem da korov koji je gajen trinaest godina ne mo\u017ee biti po\u010dupan za jedan dan. Ko je o\u010dekivao dan D je pod stra\u0161nom deluzijom i potreban mu je jedan te\u017eak reality check.\n\nOvo je po\u010delo tako \u0161to je nenadle\u017ena institucija odlu\u010dila da pretu\u010de studente fakulteta dramskih umetnosti u Beogradu koji su na petnaest minuta blokirali ulicu ispred fakulteta u znak davanja po\u0161te poginulima u Novom Sadu. Tada je na ulici bilo na desetine studenata, profesora i gra\u0111ana. Ju\u010de ih je bilo, po nekim izvorima, preko 800.000.  \nMnogo Srba je kroz vekove zadu\u017eilo na\u0161 narod i \u010dove\u010danstvo za sve vekove. Vi ste dragi moji definitivno na tom spisku. Ljubi vas brat! &lt;3",
+                    "author_fullname": "t2_404hs9xv",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Za\u0161to se zvu\u010dni top (LRAD/AHD) ne \u010duje na snimcima sa protesta u Beogradu? + moje mi\u0161ljenje o protestu.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Diskusija (Discussion)"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/serbia",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "post-flair-discussion",
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1jco5fo",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.88,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 81,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Diskusija (Discussion)",
+                    "can_mod_post": false,
+                    "score": 81,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1742139430.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.serbia",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Prvo bih da razjasnim terminologiju. &lt;strong&gt;LRAD&lt;/strong&gt; je proizvod kompanije Genasys. Zvani\u010dan naziv ovog ure\u0111aja je &lt;strong&gt;Acoustic Hailing Device&lt;/strong&gt; (AHD). &lt;a href=\"https://jifco.defense.gov/Current-Intermediate-Force-Capabilities/Acoustic-Hailing-Devices/\"&gt;https://jifco.defense.gov/Current-Intermediate-Force-Capabilities/Acoustic-Hailing-Devices/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Kako zvu\u010di AHD: &lt;a href=\"https://www.youtube.com/results?search_query=Acoustic+hailing+device\"&gt;https://www.youtube.com/results?search_query=Acoustic+hailing+device&lt;/a&gt; (otvorite koji god video)&lt;/p&gt;\n\n&lt;p&gt;Na snimcima sa protesta nisam uspeo da \u010dujem ni jedan verodostojan prikaz zvuka koji mo\u017ee da se \u010duje na raznim snimcima sa YouTube-a. A za\u0161to?&lt;/p&gt;\n\n&lt;p&gt;Prose\u010dan smartphone mobilni telefon u sebi sadr\u017ei &lt;strong&gt;MEMS&lt;/strong&gt; mikrofon. Ve\u0107ina telefona poseduje osnovne verzije MEMS mikrofona koje imaju frekvenciju izme\u0111u 100 Hz i 10.000 Hz (10 kHz). MEMS mikrofoni mogu verodostojno da prika\u017eu zvuk koji ne prelazi 120 dB SPL (Sound Pressure Level). Mikrofoni u mobilnim telefonima su &lt;em&gt;omnidirectional&lt;/em&gt; \u0161to zna\u010di da prikupljaju zvuk u luku od 360 stepeni. Tako\u0111e je prisutna tehnologija za Automatic Gain Control i Noise Suppression tehnologija kako bi se moglo razgovarati u bu\u010dnijim sredinama. &lt;a href=\"https://www.st.com/en/mems-and-sensors/mems-microphones.html\"&gt;https://www.st.com/en/mems-and-sensors/mems-microphones.html&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;AHD ure\u0111aji uglavnom projektuju usmeren zvuk koji je sadr\u017ean u luku do 60 stepeni. Postoje i omnidirectional AHD modeli ali se uglavnom ne koriste u svrhe kontrole mase. Zvuk koji AHD proizvodi je glasno\u0107e izme\u0111u 120 dB SPL i 160 dB SPL i frekvencije od 1000 Hz do 5000 Hz. &lt;a href=\"https://science.howstuffworks.com/lrad.htm\"&gt;https://science.howstuffworks.com/lrad.htm&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Dolazimo do toga de se u masi ljudi koja se nalazilala ju\u010de u centru Beograda dogodio stampedo pod jo\u0161 uvek nerazja\u0161njenim okolnostima. Na snimcima koji su podeljeni sa tog doga\u0111aja, AHD se ne \u010duje jasno zato \u0161to:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Mikrofoni na telefonima prikupljjau zvuk svega oko njih. Ti\u0161ina pa odjednom pi\u0161taljke, guranje, galama... &lt;/li&gt;\n&lt;li&gt;Iako telefoni mogu da zabele\u017ee frekvienciju koji proizvodi AHD, glasno\u0107u zvuka ne mogu. Preko 120 dB SPL dolazi do distorzije i prekida zvuka&lt;/li&gt;\n&lt;li&gt;Noise Cancelation i Gain Control \u0107e automatski da smanje glasno\u0107u zvuka koji proizvodi AHD&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Izvor: &lt;a href=\"https://www.analog.com/en/resources/analog-dialogue/articles/understanding-microphone-sensitivity.html\"&gt;https://www.analog.com/en/resources/analog-dialogue/articles/understanding-microphone-sensitivity.html&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;+ konverzacija sa ChatGPT obavljena nakon pregleda ostalih navedenih izvora: &lt;a href=\"https://chatgpt.com/share/67d6e95d-3cc0-8012-ae82-506d2b96725d\"&gt;https://chatgpt.com/share/67d6e95d-3cc0-8012-ae82-506d2b96725d&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Da li je Acoustic Hailing Device bio upotrebljen ja ju\u010dera\u0161njem protestu u Beogradu? &lt;strong&gt;Ne znam&lt;/strong&gt;. &lt;strong&gt;Ne zna velika ve\u0107ina nas&lt;/strong&gt;. Izjave nekih ljudi se poklapaju sa pretpostavkom da se zvu\u010dni top upotrebio ali u trenucima masovne panike ni\u0161ta nije 100% sigurno.&lt;br/&gt;\nOvaj post slu\u017ei tome da objasni za\u0161to prose\u010dan telefon ne mo\u017ee autenti\u010dno da zabele\u017ei zvuk koji proizvodi zvu\u010dni top i da se donekle nadove\u017ee na ovaj post: &lt;a href=\"https://www.reddit.com/r/serbia/comments/1jcklsb/zvucni_top_tehni%C4%8Dka_diskusija/\"&gt;https://www.reddit.com/r/serbia/comments/1jcklsb/zvucni_top_tehni%C4%8Dka_diskusija/&lt;/a&gt;&lt;br/&gt;\nNeki ljudi spekuli\u0161u da je mo\u017eda upotrebljen Active Denial System, u su\u0161tini toplotni laser: &lt;a href=\"https://www.youtube.com/watch?v=kzG4oEutPbA\"&gt;https://www.youtube.com/watch?v=kzG4oEutPbA&lt;/a&gt;&lt;br/&gt;\nZa tu tvrdnju nisam prona\u0161ao iskaze prisutnih na protestu.&lt;br/&gt;\nU ovakvoj masi ljudi je dovoljno da se desi jedan mali incident (neko vikne &amp;#39;&amp;#39;bomba&amp;#39;&amp;#39; i baci petardu) kako bi se dogodio stampedo. Jedan primer toga: &lt;a href=\"https://www.youtube.com/watch?v=B4n7wo8rvTM\"&gt;https://www.youtube.com/watch?v=B4n7wo8rvTM&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Organizacija studenata uz podr\u0161ku bajkera i veterana 63. padobranske brigade je spre\u010dila da se ju\u010de u Beogradu dogodi tragedija i ovime su mnoge zadu\u017eili i dali primer ne samo Srbiji ve\u0107 i celom svetu.&lt;br/&gt;\nZbog posla nisam bio prisutan na protestu ali sam od 18h do 22h pratio prenos u\u017eivo sa YouTube kanala Bez Cenzure a pre posla sam dovezao par prijatelja do Novog Beograda.&lt;br/&gt;\nZa one koji misle da je protest &amp;#39;&amp;#39;propao&amp;#39;&amp;#39; mogu samo da ka\u017eem da korov koji je gajen trinaest godina ne mo\u017ee biti po\u010dupan za jedan dan. Ko je o\u010dekivao dan D je pod stra\u0161nom deluzijom i potreban mu je jedan te\u017eak reality check.&lt;/p&gt;\n\n&lt;p&gt;Ovo je po\u010delo tako \u0161to je nenadle\u017ena institucija odlu\u010dila da pretu\u010de studente fakulteta dramskih umetnosti u Beogradu koji su na petnaest minuta blokirali ulicu ispred fakulteta u znak davanja po\u0161te poginulima u Novom Sadu. Tada je na ulici bilo na desetine studenata, profesora i gra\u0111ana. Ju\u010de ih je bilo, po nekim izvorima, preko 800.000.&lt;br/&gt;\nMnogo Srba je kroz vekove zadu\u017eilo na\u0161 narod i \u010dove\u010danstvo za sve vekove. Vi ste dragi moji definitivno na tom spisku. Ljubi vas brat! &amp;lt;3&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": true,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "985d4aec-fb09-11e5-82d7-0e009f8dc277",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2ql0k",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "1jco5fo",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "-Peter-Jordanson-",
+                    "discussion_type": null,
+                    "num_comments": 68,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/serbia/comments/1jco5fo/za\u0161to_se_zvu\u010dni_top_lradahd_ne_\u010duje_na_snimcima/",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/serbia/comments/1jco5fo/za\u0161to_se_zvu\u010dni_top_lradahd_ne_\u010duje_na_snimcima/",
+                    "subreddit_subscribers": 449454,
+                    "created_utc": 1742139430.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

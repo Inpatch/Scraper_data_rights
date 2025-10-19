@@ -1,0 +1,176 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "Britain",
+                    "selftext": "My friend sent me a video about the new Age Verification Laws and I replied as shown in the image. This is the notification I got after this: I haven't made any inappropriate comments in any reels recently and even if I did, this says it was something I made in a chat.\nThoughts?\n\n",
+                    "author_fullname": "t2_ngy76dce",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "1984",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "\ud83d\udcac Discussion \ud83d\udde8"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/Britain",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1mger80",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.81,
+                    "author_flair_background_color": null,
+                    "ups": 10,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "\ud83d\udcac Discussion \ud83d\udde8",
+                    "can_mod_post": false,
+                    "score": 10,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/R8O8GfY522h-hpCOcLIIvQw_sp1Tr7P4qj9yXF6X7wE.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1754212259.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;My friend sent me a video about the new Age Verification Laws and I replied as shown in the image. This is the notification I got after this: I haven&amp;#39;t made any inappropriate comments in any reels recently and even if I did, this says it was something I made in a chat.\nThoughts?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/71wxcynotrgf1.png",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/71wxcynotrgf1.png?auto=webp&amp;s=4284383b75a4f357145ae49f652607978b50446d",
+                                    "width": 1080,
+                                    "height": 2241
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=05eba42ccb1457b3cc855bfbb8e0b7391c479d56",
+                                        "width": 108,
+                                        "height": 216
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3ed11715f44e7b8499774276459887167f9db109",
+                                        "width": 216,
+                                        "height": 432
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=153dd8c457b6ba951a7c5c29cf14f41ed26d2378",
+                                        "width": 320,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4a6d28e9d8bc3c81ee7bf9eb6241123817268ec",
+                                        "width": 640,
+                                        "height": 1280
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=8d81abc7bd2120704ab7559864bf7a9ff9c8f28f",
+                                        "width": 960,
+                                        "height": 1920
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/71wxcynotrgf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=83725df0ccfa0dce5ad807a65df257540d4af698",
+                                        "width": 1080,
+                                        "height": 2160
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "UZR05K6DWX15MDtDdMSnYcMeRwcvPtnDq6PjnnSmJoM"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "51fb43f6-7685-11ee-a128-0aa9248372c7",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qjyt",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#ff4500",
+                    "id": "1mger80",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Scary-Hamster94",
+                    "discussion_type": null,
+                    "num_comments": 4,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/Britain/comments/1mger80/1984/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/71wxcynotrgf1.png",
+                    "subreddit_subscribers": 80034,
+                    "created_utc": 1754212259.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

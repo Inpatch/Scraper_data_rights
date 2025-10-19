@@ -1,0 +1,8 @@
+{
+    "quarantine_requires_email_optin": true,
+    "reason": "quarantined",
+    "quarantine_message_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This Community contains a high volume of information not supported by credible sources. Learn more about &lt;a href=\"https://reddit.zendesk.com/hc/en-us/articles/360043069012-Quarantined-Subreddits\"&gt;quarantined communities&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+    "quarantine_message": "This Community contains a high volume of information not supported by credible sources. Learn more about [quarantined communities](https://reddit.zendesk.com/hc/en-us/articles/360043069012-Quarantined-Subreddits)",
+    "error": 403,
+    "message": "Forbidden"
+}

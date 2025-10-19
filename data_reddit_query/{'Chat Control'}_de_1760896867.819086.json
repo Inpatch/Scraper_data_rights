@@ -1,0 +1,176 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "de",
+                    "selftext": "",
+                    "author_fullname": "t2_140qn",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Why Europe's 'Chat Control' Proposal Will Cripple European Communication Industry While Failing to Protect Children",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Nachrichten Europa"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/de",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "category newseu",
+                    "downs": 0,
+                    "thumbnail_height": 93,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1nwaaib",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.98,
+                    "author_flair_background_color": null,
+                    "ups": 349,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Nachrichten Europa",
+                    "can_mod_post": false,
+                    "score": 349,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=23e1c073df0501d255d8c86caf73da2a6945875c",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1759426394.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "process-one.net",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.process-one.net/blog/chat-control-2025/",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?auto=webp&amp;s=c81294d383bb4570d6bb3769fd9353d724822636",
+                                    "width": 2000,
+                                    "height": 1333
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=86fca58f474be609301e97932d912236d0d37c09",
+                                        "width": 108,
+                                        "height": 71
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5c66a056b4c28d1d6533298c795ae13e62865bc9",
+                                        "width": 216,
+                                        "height": 143
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bd52baf979246bf5b435dfc68ec1c1b40dac0c92",
+                                        "width": 320,
+                                        "height": 213
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=84eb7d769cc86d96d6b61aacf24542e88af60ce4",
+                                        "width": 640,
+                                        "height": 426
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=561de61911fb0fc96c7627d5dcdd7b9a0e6fd280",
+                                        "width": 960,
+                                        "height": 639
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=729780020320ef27db774ef2e9a3e7785a32f620",
+                                        "width": 1080,
+                                        "height": 719
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "HYeYhJyYUpZoJ3K9VSLmeD1UfzRjZUaAxkmobk1ixKE"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "b07c5e64-7ce4-11e4-a81b-22000b2f2b55",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_22i0",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#1a3cb7",
+                    "id": "1nwaaib",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Neustradamus",
+                    "discussion_type": null,
+                    "num_comments": 1,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/de/comments/1nwaaib/why_europes_chat_control_proposal_will_cripple/",
+                    "stickied": false,
+                    "url": "https://www.process-one.net/blog/chat-control-2025/",
+                    "subreddit_subscribers": 3145186,
+                    "created_utc": 1759426394.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

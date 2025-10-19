@@ -1,0 +1,566 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 2,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "france",
+                    "selftext": "",
+                    "user_reports": [],
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Les pays suportant la proposition de l\u00e9gislation Chat Control (R\u00e8glement CSAM)",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Politique"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/france",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "red",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1n1nks5",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.97,
+                    "author_flair_background_color": "transparent",
+                    "subreddit_type": "public",
+                    "ups": 119,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "e1c6a5da-a156-11e2-9046-12313b0b21ae",
+                    "is_original_content": false,
+                    "author_fullname": "t2_12vy24",
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Politique",
+                    "can_mod_post": false,
+                    "score": 119,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/KmdUYWf-NmimnqRjVca85n4fnZSF_TI7isvSyPCoYXw.jpg",
+                    "edited": false,
+                    "author_flair_css_class": "Bretagne",
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Bretagne "
+                        },
+                        {
+                            "a": ":bretagne:",
+                            "e": "emoji",
+                            "u": "https://emoji.redditmedia.com/xdtnk0ouzln11_t5_2qhjz/bretagne"
+                        }
+                    ],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "crosspost_parent_list": [
+                        {
+                            "approved_at_utc": null,
+                            "subreddit": "europe",
+                            "selftext": "",
+                            "author_fullname": "t2_btzc81hk",
+                            "saved": false,
+                            "mod_reason_title": null,
+                            "gilded": 0,
+                            "clicked": false,
+                            "title": "Chat Control Stance as of Aug. 2025 (Countries)",
+                            "link_flair_richtext": [
+                                {
+                                    "e": "text",
+                                    "t": "Map"
+                                }
+                            ],
+                            "subreddit_name_prefixed": "r/europe",
+                            "hidden": false,
+                            "pwls": 6,
+                            "link_flair_css_class": "",
+                            "downs": 0,
+                            "thumbnail_height": 140,
+                            "top_awarded_type": null,
+                            "hide_score": false,
+                            "name": "t3_1n1dj4r",
+                            "quarantine": false,
+                            "link_flair_text_color": "light",
+                            "upvote_ratio": 0.96,
+                            "author_flair_background_color": null,
+                            "ups": 9683,
+                            "total_awards_received": 0,
+                            "media_embed": {},
+                            "thumbnail_width": 140,
+                            "author_flair_template_id": "2e5d87ce-2f83-11e7-ba66-0e4f2615b8b2",
+                            "is_original_content": false,
+                            "user_reports": [],
+                            "secure_media": null,
+                            "is_reddit_media_domain": true,
+                            "is_meta": false,
+                            "category": null,
+                            "secure_media_embed": {},
+                            "link_flair_text": "Map",
+                            "can_mod_post": false,
+                            "score": 9683,
+                            "approved_by": null,
+                            "is_created_from_ads_ui": false,
+                            "author_premium": false,
+                            "thumbnail": "https://b.thumbs.redditmedia.com/KmdUYWf-NmimnqRjVca85n4fnZSF_TI7isvSyPCoYXw.jpg",
+                            "edited": false,
+                            "author_flair_css_class": "ITAL",
+                            "author_flair_richtext": [
+                                {
+                                    "e": "text",
+                                    "t": "Italy"
+                                }
+                            ],
+                            "gildings": {},
+                            "post_hint": "image",
+                            "content_categories": null,
+                            "is_self": false,
+                            "subreddit_type": "public",
+                            "created": 1756291182.0,
+                            "link_flair_type": "richtext",
+                            "wls": 6,
+                            "removed_by_category": null,
+                            "banned_by": null,
+                            "author_flair_type": "richtext",
+                            "domain": "i.redd.it",
+                            "allow_live_comments": false,
+                            "selftext_html": null,
+                            "likes": null,
+                            "suggested_sort": null,
+                            "banned_at_utc": null,
+                            "url_overridden_by_dest": "https://i.redd.it/f7f04y4ejjlf1.png",
+                            "view_count": null,
+                            "archived": false,
+                            "no_follow": false,
+                            "is_crosspostable": true,
+                            "pinned": false,
+                            "over_18": false,
+                            "preview": {
+                                "images": [
+                                    {
+                                        "source": {
+                                            "url": "https://preview.redd.it/f7f04y4ejjlf1.png?auto=webp&amp;s=c42fcdd202b093f851f52af614a54d8881e601c2",
+                                            "width": 1360,
+                                            "height": 1360
+                                        },
+                                        "resolutions": [
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7713fbd3ecee7002761150b4aba8df5bbf73bd32",
+                                                "width": 108,
+                                                "height": 108
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=de12c983205790929c4b7cbd426888cec54bc780",
+                                                "width": 216,
+                                                "height": 216
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6389e656a9650931eb69ea65d0838536457540d4",
+                                                "width": 320,
+                                                "height": 320
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c39cbcd25cde24bd4e9b91b9284e21de892bf3c3",
+                                                "width": 640,
+                                                "height": 640
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0782d79ee4fb86bbf6f8cc45e2656056b97821f8",
+                                                "width": 960,
+                                                "height": 960
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d624581b3532b9b1da3d60293b673e930cde06dd",
+                                                "width": 1080,
+                                                "height": 1080
+                                            }
+                                        ],
+                                        "variants": {},
+                                        "id": "crFt4QXzEBd_sinCZqG0JKS6rigJulQiHdLD_yzS264"
+                                    }
+                                ],
+                                "enabled": true
+                            },
+                            "all_awardings": [],
+                            "awarders": [],
+                            "media_only": false,
+                            "link_flair_template_id": "d8b4e272-9723-11e8-ad72-0e628f38a26c",
+                            "can_gild": false,
+                            "spoiler": false,
+                            "locked": false,
+                            "author_flair_text": "Italy",
+                            "treatment_tags": [],
+                            "visited": false,
+                            "removed_by": null,
+                            "mod_note": null,
+                            "distinguished": null,
+                            "subreddit_id": "t5_2qh4j",
+                            "author_is_blocked": false,
+                            "mod_reason_by": null,
+                            "num_reports": null,
+                            "removal_reason": null,
+                            "link_flair_background_color": "#ab912b",
+                            "id": "1n1dj4r",
+                            "is_robot_indexable": true,
+                            "report_reasons": null,
+                            "author": "SeriouslyNotSerious2",
+                            "discussion_type": null,
+                            "num_comments": 1279,
+                            "send_replies": true,
+                            "contest_mode": false,
+                            "mod_reports": [],
+                            "author_patreon_flair": false,
+                            "author_flair_text_color": "dark",
+                            "permalink": "/r/europe/comments/1n1dj4r/chat_control_stance_as_of_aug_2025_countries/",
+                            "stickied": false,
+                            "url": "https://i.redd.it/f7f04y4ejjlf1.png",
+                            "subreddit_subscribers": 11431304,
+                            "created_utc": 1756291182.0,
+                            "num_crossposts": 18,
+                            "media": null,
+                            "is_video": false
+                        }
+                    ],
+                    "created": 1756316098.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/f7f04y4ejjlf1.png",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/f7f04y4ejjlf1.png?auto=webp&amp;s=c42fcdd202b093f851f52af614a54d8881e601c2",
+                                    "width": 1360,
+                                    "height": 1360
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7713fbd3ecee7002761150b4aba8df5bbf73bd32",
+                                        "width": 108,
+                                        "height": 108
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=de12c983205790929c4b7cbd426888cec54bc780",
+                                        "width": 216,
+                                        "height": 216
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6389e656a9650931eb69ea65d0838536457540d4",
+                                        "width": 320,
+                                        "height": 320
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c39cbcd25cde24bd4e9b91b9284e21de892bf3c3",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0782d79ee4fb86bbf6f8cc45e2656056b97821f8",
+                                        "width": 960,
+                                        "height": 960
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/f7f04y4ejjlf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d624581b3532b9b1da3d60293b673e930cde06dd",
+                                        "width": 1080,
+                                        "height": 1080
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "crFt4QXzEBd_sinCZqG0JKS6rigJulQiHdLD_yzS264"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "c02a5ac4-68f8-11e3-8c91-12313d21c4ee",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "Bretagne :bretagne:",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qhjz",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#000000",
+                    "id": "1n1nks5",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Alpha_Lex",
+                    "discussion_type": null,
+                    "num_comments": 43,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "crosspost_parent": "t3_1n1dj4r",
+                    "author_flair_text_color": "light",
+                    "permalink": "/r/france/comments/1n1nks5/les_pays_suportant_la_proposition_de_l\u00e9gislation/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/f7f04y4ejjlf1.png",
+                    "subreddit_subscribers": 2503070,
+                    "created_utc": 1756316098.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "france",
+                    "selftext": "",
+                    "author_fullname": "t2_81xffbre",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "La libert\u00e9 a un bouton install",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Tech"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/france",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "techno",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1n1tdn3",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.54,
+                    "author_flair_background_color": null,
+                    "ups": 4,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Tech",
+                    "can_mod_post": false,
+                    "score": 4,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "nsfw",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1756329307.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/ceyvq18romlf1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": true,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?auto=webp&amp;s=5e5592182b405b59bd481b6f8f8901422499dc80",
+                                    "width": 786,
+                                    "height": 6132
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ba60e38bf934e25a309fc3ffb57fbf8ec240803e",
+                                        "width": 108,
+                                        "height": 216
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3a0465990823e98eeeed045505a295b3bd5285d4",
+                                        "width": 216,
+                                        "height": 432
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=441771bcd03b8c9449688ffddc4490baf4e94a07",
+                                        "width": 320,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d91f1a72159b6421ad4b628fcf0d477daa6c454",
+                                        "width": 640,
+                                        "height": 1280
+                                    }
+                                ],
+                                "variants": {
+                                    "obfuscated": {
+                                        "source": {
+                                            "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?blur=40&amp;format=pjpg&amp;auto=webp&amp;s=f4b12289e132b516ebfe4eac0908552f929de4e6",
+                                            "width": 786,
+                                            "height": 6132
+                                        },
+                                        "resolutions": [
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=108&amp;crop=smart&amp;blur=10&amp;format=pjpg&amp;auto=webp&amp;s=0c7055d1b50a2b79a97c423eeaae5c2fb24dc330",
+                                                "width": 108,
+                                                "height": 216
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=216&amp;crop=smart&amp;blur=21&amp;format=pjpg&amp;auto=webp&amp;s=3fe9a17e75aa03af8141b3c4890dca5e1ef27f95",
+                                                "width": 216,
+                                                "height": 432
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=320&amp;crop=smart&amp;blur=32&amp;format=pjpg&amp;auto=webp&amp;s=a25be75112e90e0ed843dc73ba11d3ff1b689d3f",
+                                                "width": 320,
+                                                "height": 640
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=640&amp;crop=smart&amp;blur=40&amp;format=pjpg&amp;auto=webp&amp;s=011e47d15d439be4b7ec9541ff3c1af550981e36",
+                                                "width": 640,
+                                                "height": 1280
+                                            }
+                                        ]
+                                    },
+                                    "nsfw": {
+                                        "source": {
+                                            "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?blur=40&amp;format=pjpg&amp;auto=webp&amp;s=f4b12289e132b516ebfe4eac0908552f929de4e6",
+                                            "width": 786,
+                                            "height": 6132
+                                        },
+                                        "resolutions": [
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=108&amp;crop=smart&amp;blur=10&amp;format=pjpg&amp;auto=webp&amp;s=0c7055d1b50a2b79a97c423eeaae5c2fb24dc330",
+                                                "width": 108,
+                                                "height": 216
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=216&amp;crop=smart&amp;blur=21&amp;format=pjpg&amp;auto=webp&amp;s=3fe9a17e75aa03af8141b3c4890dca5e1ef27f95",
+                                                "width": 216,
+                                                "height": 432
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=320&amp;crop=smart&amp;blur=32&amp;format=pjpg&amp;auto=webp&amp;s=a25be75112e90e0ed843dc73ba11d3ff1b689d3f",
+                                                "width": 320,
+                                                "height": 640
+                                            },
+                                            {
+                                                "url": "https://preview.redd.it/ceyvq18romlf1.jpeg?width=640&amp;crop=smart&amp;blur=40&amp;format=pjpg&amp;auto=webp&amp;s=011e47d15d439be4b7ec9541ff3c1af550981e36",
+                                                "width": 640,
+                                                "height": 1280
+                                            }
+                                        ]
+                                    }
+                                },
+                                "id": "lxo2Nh8PlPK5fd58doj7W3AEXM7foYtSETnSsH_lIKI"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "e42eb1fc-1c5d-11f0-b6e9-eaf27decf991",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qhjz",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#fcf003",
+                    "id": "1n1tdn3",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "PetitGeant",
+                    "discussion_type": null,
+                    "num_comments": 55,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/france/comments/1n1tdn3/la_libert\u00e9_a_un_bouton_install/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/ceyvq18romlf1.jpeg",
+                    "subreddit_subscribers": 2503070,
+                    "created_utc": 1756329307.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
