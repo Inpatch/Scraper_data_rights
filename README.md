@@ -9,6 +9,7 @@ name: Something
 redirect url: http://localhost:8080 (only matters if you have created a web app)
 
 - Go into authentication_example.json and populate the following things:
+token: Dont worry about this
 client_id: (can be found under the title of your app in https://www.reddit.com/prefs/apps)
 client_secret: (can be found in the same place as before as "Secret")
 redirect_url: (can be found in the same place as before as "redirect url")

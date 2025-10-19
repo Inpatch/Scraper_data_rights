@@ -1,5 +1,5 @@
 enviroment/
-.env/
+.venv/
 
 
 /authentication.json
