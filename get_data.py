@@ -51,8 +51,8 @@ class api_reddit_data():
         file_name = f"{params["q"]}_{self.subreddit}_{datetime.now().timestamp()}.json"
         # "data" is the folder name
         file_path = os.path.join("data_reddit_query", file_name)
-        with open(file_path, "w") as file:
-            json.dump(response.json(), file, indent=4)
+        with open(file_path, "w", encoding="utf-8") as file:
+            json.dump(response.json(), file, indent=4, ensure_ascii=False)
         
 
     def get_comment(self, posts):

@@ -56,7 +56,7 @@ class token():
 
 
 
-            with open(self.filename, "w") as file:
+            with open(self.filename, "w", encoding='utf-8') as file:
                 json.dump(data, file, indent=4)
             print(f"File '{self.filename}' has been created/overwritten with the following content:")
             print(json.dumps(data, indent=4))
