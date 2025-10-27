@@ -54,7 +54,7 @@ class api_reddit_data():
         with open(file_path, "w", encoding="utf-8") as file:
             json.dump(response.json(), file, indent=4, ensure_ascii=False)
         
-# DU var igang med at finde replies til alle comments, men det ser ud til der er en fejl omrking try 
+
     def get_comment(self, path):
         for filename in os.listdir(path):
             with open(os.path.join(path, filename), "r", encoding="utf-8") as file:
@@ -62,31 +62,31 @@ class api_reddit_data():
                 try:
                     data = data["data"]
                     data = data["children"]
-                    for post in data:
-                        post_id = post["data"]["id"]
-                        post_subreddit = post["data"]["subreddit"]
-                        url = f"https://oauth.reddit.com/r/{post_subreddit}/comments/{post_id}.json"
-                        response = requests.get(url, headers=self.header)
-                        comments_data = response.json()
-                        comments = []
-                        for item in comments_data[1]["data"]["children"]:  # [1] is the comments section
-                            comment = item["data"]
-                            comments.append({
-                                "id": comment["id"],
-                                "author": comment["author"],
-                                "body": comment["body"],
-                                "created_utc": comment["created_utc"],
-                                "score": comment["score"],
-                                "replies": self.replies(comment["replies"]["data"]["children"]) if comment["replies"] else False
-                            })
-
-
-                        file_name = f"{post_id}.json"
-                        file_path = os.path.join(path, file_name)
-                        with open(file_path, "w", encoding="utf-8") as file:
-                            json.dump(comments, file, indent=4, ensure_ascii=False)
                 except:
-                    print("error")
+                    pass
+
+                for post in data:
+                    post_id = post["data"]["id"]
+                    post_subreddit = post["data"]["subreddit"]
+                    url = f"https://oauth.reddit.com/r/{post_subreddit}/comments/{post_id}.json"
+                    response = requests.get(url, headers=self.header)
+                    comments_data = response.json()
+                    comments = []
+
+                    for item in comments_data[1]["data"]["children"]:  # [1] is the comments section
+                        comment = item["data"]
+                        comments.append({
+                            "id": comment["id"],
+                            "author": comment["author"],
+                            "body": comment["body"],
+                            "created_utc": comment["created_utc"],
+                            "score": comment["score"],
+                            "replies": self.replies(comment["replies"]["data"]["children"]) if comment["replies"] else False
+                        })
+                        self.save_data(path, post_id, comments)
+                    data["replies"] = {}
+                    
+            # For testing, only gets the first one
             break
 
     def replies(self, data):
@@ -94,16 +94,26 @@ class api_reddit_data():
         replies = []
         for i in data:
             comment_data = i["data"]
-            replies.append({
-                "id": comment_data["id"],
-                "author": comment_data["author"],
-                "body": comment_data["body"],
-                "created_utc": comment_data["created_utc"],
-                "score": comment_data["score"],
-                "replies": self.replies(comment_data["replies"]["data"]["children"]) if comment_data["replies"] else False
-            })
+            try:
+                replies.append({
+                    "id": comment_data["id"],
+                    "author": comment_data["author"],
+                    "body": comment_data["body"],
+                    "created_utc": comment_data["created_utc"],
+                    "score": comment_data["score"],
+                    "replies": self.replies(comment_data["replies"]["data"]["children"]) if comment_data["replies"] else False
+                })
+            except:
+                pass
         return replies
 
+
+    def save_data(self, path, file_name,data):
+        file_name = file_name+".json"
+        file_path = os.path.join(path, file_name)
+        with open(file_path, "w", encoding="utf-8") as file:
+            json.dump(data, file, indent=4, ensure_ascii=False)
+            file.close()
 
 
 
