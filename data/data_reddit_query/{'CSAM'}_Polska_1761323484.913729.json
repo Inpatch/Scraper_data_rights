@@ -1,0 +1,186 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": null,
+        "dist": 1,
+        "facets": {},
+        "after": null,
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "Polska",
+                    "selftext": "Źródło i oryginalny tekst: Chiara Castro / [Techradar.com](https://www.techradar.com/computing/cyber-security/a-political-blackmail-the-eu-parliament-is-pressing-for-new-mandatory-scanning-of-your-private-chats)\n\nWyciekła informacja o tym, że Parlament Europejski stara się o osiągnięcie porozumienia w kwestii kontrowersyjnego wniosku dotyczącego skanowania wiadomości pod kątem materiałów internetowych związanych z wykorzystywaniem seksualnym dzieci (CSAM - *child sexual abuse material*). \n\nWedług informacji podanych przez grupę Netzpolitik, zajmującą się prawami użytkowników usług cyfrowych, Parlament UE podczas spotkania mającego miejsce 11 lipca, zagroził, że zablokuje przedłużenie tymczasowego rozporządzenia, które zezwala na dobrowolne skanowanie wiadomości użytkowników, wedle uznania samych dostawców takich usług. Parlament ma blokować to rozporządzenie, dopóki Rada Europejska nie zgodzi się na obowiązkowe skanowanie wszystkich wiadomości.\n\nZdaniem Patricka Breyera, byłego członka Parlamentu Europejskiego:\n\n&gt;*Ten polityczny szantaż wymusza wprowadzenie złego rozwiązania i stoi w sprzeczności z dotychczasowym stanowiskiem samego Parlamentu Europejskiego w kwestii masowego skanowania treści w Internecie.*\n\nDania ponownie przedstawiła projekt tej ustawy w swoim pierwszym dniu swojej prezydencji w Unii Europejskiej. Nowe reguły skanowania wiadomości obowiązujące komunikatory w Europie mogą prowadzone zostać najwcześniej już 14 października 2025 roku.\n\nW gwoli przypomnienia: pierwsza propozycja tego typu, Chat Control, pojawiła się w maju 2022 roku i miała na celu powstrzymanie rozprzestrzeniania się treści CSAM w Internecie poprzez skanowanie całej komunikacji, zwłaszcza szyfrowanej. Jednak wraz z upływem czasu, kolejni aktywiści, eksperci, a nawet sami politycy zaczęli wyrażać swoje obawy i sceptycyzm wobec proponowanych zmian.\n\nGłówne zastrzeżenia dotyczyły osłabienia zabezpieczeń związanych z szyfrowaniem, które jest kluczowym fundamentem bezpieczeństwa dla takich aplikacji i usług jak WhatsApp, Signal i Proton Mail.\n\nZgodnie z tą pierwszą wersją ustawy, wszyscy dostawcy oprogramowania do przesyłania wiadomości, mieliby obowiązek przeprowadzania obowiązkowego, nieograniczonego skanowania prywatnych wiadomości użytkowników, w celu wykrycia treści CSAM. Ustawa spotkała się z ostrym sprzeciwem, co poskutkowało zakazem wszelkich prawnych prób osłabienia szyfrowania wiadomości w Europie, wprowadzonym ze strony Europejskiego Trybunału Praw Człowieka .\n\nW czerwcu 2024 roku Belgia zaproponowała kompromis, który miał dotyczyć wyłącznie udostępnianych zdjęć, filmów i adresów URL za zgodą użytkowników. \n\nW lutym 2025 roku Polska zaproponowała wprowadzenie dobrowolności w kwestii skanowania szyfrowanych czatów i klasyfikując je jako „*środki zapobiegawcze*”.\n\nJednak, według Breyera, duńska propozycja jest jak dotąd „*najbardziej radykalną wersją*”. \n\n&gt;Ta propozycja obejmuje obowiązkowe masowe skanowanie prywatnej komunikacji i ma na celu złamanie bezpiecznego szyfrowania poprzez wymuszenie skanowania po stronie klienta w aplikacjach do przesyłania wiadomości. Co ciekawe, konta rządowe i wojskowe będą zwolnione z tego inwazyjnego i zawodnego skanowania. – wyjaśnia.\n\nWyciek potwierdza również, że wydział prawny Rady UE nadal uważa, że obecna propozycja narusza podstawowe prawa Europejczyków, ponieważ „*podstawowe problemy związane z dostępem do środków komunikacji dla potencjalnie wszystkich użytkowników pozostały niezmienione*”.\n\nCo więcej, wiele krajów, które sprzeciwiały się kontroli czatu w 2024 roku, obecnie wydaje się skłaniać ku porozumieniu. Wśród krajów, które z popierają duńską propozycję, znajdują się Włochy, Hiszpania i Węgry. Francja również stwierdziła, że „*zasadniczo może poprzeć tę propozycję*”.\n\nKraje, takie jak: Belgia, Estonia, Finlandia, Niemcy, Grecja, Słowenia, Luksemburg i Rumunia nadal nie podjęły decyzji lub zaznaczają, że konieczne będzie rozpatrzenie tej kwestii w ich parlamentach.\n\nWszystkie kraje muszą podjąć decyzję do 12 września, kiedy to odbędzie się kolejne spotkanie. Celem jest jednak ostateczna debata nad projektem ustawy, która będzie miała miejsce 14 października.\n\nPewne jest jednak to, że dążenie do legalnego dostępu do zaszyfrowanych danych obywateli jest obecnie jednym z głównych priorytetów prawodawców w UE. Pod koniec czerwca Komisja Europejska opublikowała również pierwszy krok w ramach swojej nowej strategii ProtectEU, która do 2030 roku ma umożliwić organom ścigania odszyfrowanie prywatnych danych obywateli.\n\n",
+                    "author_fullname": "t2_lswe3t1q",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Dania chce wprowadzić ogólnoeuropejski nakaz skanowania prywatnych wiadomości",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Polityka"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/Polska",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 78,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1mjugjo",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.97,
+                    "author_flair_background_color": "#dadada",
+                    "ups": 689,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "928c86a6-6bd7-11e7-b358-0e3add17a82c",
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Polityka",
+                    "can_mod_post": false,
+                    "score": 689,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/iFwYNXnf7NZL3lTx8qshwj1ISfHaK9-vUyTc16aA_rw.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [
+                        {
+                            "a": ":lublin:",
+                            "e": "emoji",
+                            "u": "https://emoji.redditmedia.com/sjc8v4hqwjx71_t5_2qiqo/lublin"
+                        },
+                        {
+                            "e": "text",
+                            "t": " Lublin"
+                        }
+                    ],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1754555038.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Źródło i oryginalny tekst: Chiara Castro / &lt;a href=\"https://www.techradar.com/computing/cyber-security/a-political-blackmail-the-eu-parliament-is-pressing-for-new-mandatory-scanning-of-your-private-chats\"&gt;Techradar.com&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Wyciekła informacja o tym, że Parlament Europejski stara się o osiągnięcie porozumienia w kwestii kontrowersyjnego wniosku dotyczącego skanowania wiadomości pod kątem materiałów internetowych związanych z wykorzystywaniem seksualnym dzieci (CSAM - &lt;em&gt;child sexual abuse material&lt;/em&gt;). &lt;/p&gt;\n\n&lt;p&gt;Według informacji podanych przez grupę Netzpolitik, zajmującą się prawami użytkowników usług cyfrowych, Parlament UE podczas spotkania mającego miejsce 11 lipca, zagroził, że zablokuje przedłużenie tymczasowego rozporządzenia, które zezwala na dobrowolne skanowanie wiadomości użytkowników, wedle uznania samych dostawców takich usług. Parlament ma blokować to rozporządzenie, dopóki Rada Europejska nie zgodzi się na obowiązkowe skanowanie wszystkich wiadomości.&lt;/p&gt;\n\n&lt;p&gt;Zdaniem Patricka Breyera, byłego członka Parlamentu Europejskiego:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;Ten polityczny szantaż wymusza wprowadzenie złego rozwiązania i stoi w sprzeczności z dotychczasowym stanowiskiem samego Parlamentu Europejskiego w kwestii masowego skanowania treści w Internecie.&lt;/em&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Dania ponownie przedstawiła projekt tej ustawy w swoim pierwszym dniu swojej prezydencji w Unii Europejskiej. Nowe reguły skanowania wiadomości obowiązujące komunikatory w Europie mogą prowadzone zostać najwcześniej już 14 października 2025 roku.&lt;/p&gt;\n\n&lt;p&gt;W gwoli przypomnienia: pierwsza propozycja tego typu, Chat Control, pojawiła się w maju 2022 roku i miała na celu powstrzymanie rozprzestrzeniania się treści CSAM w Internecie poprzez skanowanie całej komunikacji, zwłaszcza szyfrowanej. Jednak wraz z upływem czasu, kolejni aktywiści, eksperci, a nawet sami politycy zaczęli wyrażać swoje obawy i sceptycyzm wobec proponowanych zmian.&lt;/p&gt;\n\n&lt;p&gt;Główne zastrzeżenia dotyczyły osłabienia zabezpieczeń związanych z szyfrowaniem, które jest kluczowym fundamentem bezpieczeństwa dla takich aplikacji i usług jak WhatsApp, Signal i Proton Mail.&lt;/p&gt;\n\n&lt;p&gt;Zgodnie z tą pierwszą wersją ustawy, wszyscy dostawcy oprogramowania do przesyłania wiadomości, mieliby obowiązek przeprowadzania obowiązkowego, nieograniczonego skanowania prywatnych wiadomości użytkowników, w celu wykrycia treści CSAM. Ustawa spotkała się z ostrym sprzeciwem, co poskutkowało zakazem wszelkich prawnych prób osłabienia szyfrowania wiadomości w Europie, wprowadzonym ze strony Europejskiego Trybunału Praw Człowieka .&lt;/p&gt;\n\n&lt;p&gt;W czerwcu 2024 roku Belgia zaproponowała kompromis, który miał dotyczyć wyłącznie udostępnianych zdjęć, filmów i adresów URL za zgodą użytkowników. &lt;/p&gt;\n\n&lt;p&gt;W lutym 2025 roku Polska zaproponowała wprowadzenie dobrowolności w kwestii skanowania szyfrowanych czatów i klasyfikując je jako „&lt;em&gt;środki zapobiegawcze&lt;/em&gt;”.&lt;/p&gt;\n\n&lt;p&gt;Jednak, według Breyera, duńska propozycja jest jak dotąd „&lt;em&gt;najbardziej radykalną wersją&lt;/em&gt;”. &lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Ta propozycja obejmuje obowiązkowe masowe skanowanie prywatnej komunikacji i ma na celu złamanie bezpiecznego szyfrowania poprzez wymuszenie skanowania po stronie klienta w aplikacjach do przesyłania wiadomości. Co ciekawe, konta rządowe i wojskowe będą zwolnione z tego inwazyjnego i zawodnego skanowania. – wyjaśnia.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Wyciek potwierdza również, że wydział prawny Rady UE nadal uważa, że obecna propozycja narusza podstawowe prawa Europejczyków, ponieważ „&lt;em&gt;podstawowe problemy związane z dostępem do środków komunikacji dla potencjalnie wszystkich użytkowników pozostały niezmienione&lt;/em&gt;”.&lt;/p&gt;\n\n&lt;p&gt;Co więcej, wiele krajów, które sprzeciwiały się kontroli czatu w 2024 roku, obecnie wydaje się skłaniać ku porozumieniu. Wśród krajów, które z popierają duńską propozycję, znajdują się Włochy, Hiszpania i Węgry. Francja również stwierdziła, że „&lt;em&gt;zasadniczo może poprzeć tę propozycję&lt;/em&gt;”.&lt;/p&gt;\n\n&lt;p&gt;Kraje, takie jak: Belgia, Estonia, Finlandia, Niemcy, Grecja, Słowenia, Luksemburg i Rumunia nadal nie podjęły decyzji lub zaznaczają, że konieczne będzie rozpatrzenie tej kwestii w ich parlamentach.&lt;/p&gt;\n\n&lt;p&gt;Wszystkie kraje muszą podjąć decyzję do 12 września, kiedy to odbędzie się kolejne spotkanie. Celem jest jednak ostateczna debata nad projektem ustawy, która będzie miała miejsce 14 października.&lt;/p&gt;\n\n&lt;p&gt;Pewne jest jednak to, że dążenie do legalnego dostępu do zaszyfrowanych danych obywateli jest obecnie jednym z głównych priorytetów prawodawców w UE. Pod koniec czerwca Komisja Europejska opublikowała również pierwszy krok w ramach swojej nowej strategii ProtectEU, która do 2030 roku ma umożliwić organom ścigania odszyfrowanie prywatnych danych obywateli.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/cbly2vojwjhf1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?auto=webp&amp;s=9fdb0fe90456d211a2296749f2e2b426a60eeb2b",
+                                    "width": 1280,
+                                    "height": 720
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=01fee337ce8bea35f3ec4f6166ac3adcf7ddf6bc",
+                                        "width": 108,
+                                        "height": 60
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c087a26f5bafb12a2255961c4366af9fed80b4af",
+                                        "width": 216,
+                                        "height": 121
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eefa678d105656dc926e3b176ff1bd8f68fa97c7",
+                                        "width": 320,
+                                        "height": 180
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bd29f6c5eb60321f6ae779473506e4373bba793",
+                                        "width": 640,
+                                        "height": 360
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a0520cd0fefe8f9930c58b23eab1e775f0f271a1",
+                                        "width": 960,
+                                        "height": 540
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/cbly2vojwjhf1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=53b73c42a40ae68302ae28a4b0065671879c1cac",
+                                        "width": 1080,
+                                        "height": 607
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "HuAlZe4KXF5Ddsvlfs_wV8WQ6dkt4BwVMXlQLZKVd54"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "6ce7eb46-6dcd-11e7-b9a3-0e83a21b0ff0",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": ":lublin: Lublin",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qiqo",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#1e91d6",
+                    "id": "1mjugjo",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "BigManScaramouche",
+                    "discussion_type": null,
+                    "num_comments": 262,
+                    "send_replies": false,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/Polska/comments/1mjugjo/dania_chce_wprowadzić_ogólnoeuropejski_nakaz/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/cbly2vojwjhf1.jpeg",
+                    "subreddit_subscribers": 739842,
+                    "created_utc": 1754555038.0,
+                    "num_crossposts": 4,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
